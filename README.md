@@ -7,7 +7,7 @@ Full Stack Web Developer
 * 🌍  I'm based in New Orleans, Louisiana
 * 🖥️  See my portfolio at [Trey Rader](http://treyrader.com/)
 * ✉️  You can contact me at [treyrdr09@gmai.com](mailto:treyrdr09@gmai.com)
-* 🧠  I'm currently learning React Figma UX/UI Design
+* 🧠  I'm currently learning NextJS 14 && Figma UX/UI Design
 * 🤝  Would love to collaborate!
 
 My coding journey began by teaching myself the fundamentals of web devlopment back in 2016. Within months thereafter, I decided it best to level up by enrolling into a remote coding bootcamp located in NYC, called Thinkful. Eagar to get my hands on some real world experience and coupled with funds being scarce, however, I deiced to resign from the program pre-maturely which coincided in me landing my first professional coding job, a startup called Today's One-room Schoolhouse (TORSH) whose mission is to to innovate educational technology, a mission that aligned perfectly with my own. I worked with Torsh for two years. 
@@ -25,8 +25,6 @@ It was nice meeting you!
  
 ### Links
 <b>Vouzot</b>: \[https://vouzot.com\] 
-
-<b>Portfolio</b>: \[https://treyrader.com\] 
 
 ### Skills
 
