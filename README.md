@@ -4,7 +4,7 @@ Hi 👋 My name is Trey Rader
 Full Stack Web Developer
 ------------------------
 
-* 🌍  I'm based in New Orleans, Louisiana
+* 🌍 ⚜️  I'm based in New Orleans, Louisiana 
 * 🖥️  See my portfolio at [Trey Rader](http://treyrader.com/)
 * ✉️  You can contact me at [treyrdr09@gmai.com](mailto:treyrdr09@gmai.com)
 * 🧠  I'm currently learning NextJS 14 && Figma UX/UI Design
