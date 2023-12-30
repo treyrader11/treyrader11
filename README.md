@@ -24,8 +24,9 @@ It was nice meeting you!
 (Founder of Vouzot)
  
 ### Links
-<b>Vouzot</b>: \[https://vouzot.com/\] 
-<b>Portfolio</b>: \[https://treyrader.com/\] 
+<b>Vouzot</b>: \[https://vouzot.com\] 
+
+<b>Portfolio</b>: \[https://treyrader.com\] 
 
 ### Skills
 
