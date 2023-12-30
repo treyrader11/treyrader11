@@ -20,11 +20,12 @@ Although Vouzot has been the subject of my attention since 2022, I am always ope
 
 It was nice meeting you!
 
--Trey Rader (Founder of Vouzot)
+-Trey Rader 
+(Founder of Vouzot)
  
 ### Links
-Vouzot: https://vouzot.com
-Portfolio: \[https://treyrader.com/\] 
+<b>Vouzot</b>: \[https://vouzot.com/\] 
+<b>Portfolio</b>: \[https://treyrader.com/\] 
 
 ### Skills
 
