@@ -22,8 +22,8 @@ It was nice meeting you!
 
 -Trey Rader (Founder of Vouzot)
  
-Vouzot: \[https://vouzot.com/\] 
-Portfolio: \[https://treyrader.com/\] 
+##Vouzot: \[https://vouzot.com/\] 
+##Portfolio: \[https://treyrader.com/\] 
 
 ### Skills
 
