@@ -10,18 +10,7 @@ Full Stack Web Developer
 * 🧠  I'm currently learning NextJS 14 && Figma UX/UI Design
 * 🤝  Would love to collaborate!
 
-My coding journey began by teaching myself the fundamentals of web devlopment back in 2016. Within months thereafter, I decided it best to level up by enrolling into a remote coding bootcamp located in NYC, called Thinkful. Eagar to get my hands on some real world experience and coupled with funds being scarce, however, I deiced to resign from the program pre-maturely which coincided in me landing my first professional coding job, a startup called Today's One-room Schoolhouse (TORSH) whose mission is to to innovate educational technology, a mission that aligned perfectly with my own. I worked with Torsh for two years. 
-
-The years to follow have consisted of me doing building small freelance projects for local musicians in New Orleans as well as performing and studying piano styles associated with the region, a place I call home. In late 2022, I decided to put my piano endeavors aside for a bit so as to focus all my attention to sharpening my tech skillset, inspired to work on a team of diligent and passionate devs and to build useful and unique products. While this decision had been very much catalyzed by my desire to achieve a less precarious living situation, freelancing in both web dev and music, it was nevertheless the idea to begin building my own Saas company that fueled it, a platform I call Vouzot. 
-
-Similar to Torsh, Vouzot's mission is to help make gains towards education, but particularly within the realm of culture and music. I foresee the platform being a place on which Lousiana natives, Cajuns and Creoles, can provide authentic presentations of personal histories and folklore, unique cooking recipes for which Lousiana is largely known, a place to shine light on the myriad of francophone venaculars resonating throughout the entire reigion of South Louisiana and to capture the purity in the rich musical heritages which spring from the Creole state, the state in which I am very proud to say I was born and raised. 
-
-Although Vouzot has been the subject of my attention since 2022, I am always open to new tech opportunites and am enthusiastic to collaborate with likeminded devs, scholars, and cultural preservationists. If interested and would like to learn more, don't hesitate to checkout my website where I showcase all of my latest projects. I'll add some links below.
-
-It was nice meeting you!
-
--Trey Rader 
-(Founder of Vouzot)
+Eperienced web developer, passionate about education and culture. Founded Vouzot, a platform dedicated to preserving Louisiana's rich heritage through authentic presentations, cooking recipes, and music. Open to new tech opportunities and collaborations. Check out my website for more details and latest projects. Nice to meet you!
  
 ### Links
 <b>Vouzot</b>: \[https://vouzot.com\] 
