@@ -5,15 +5,15 @@ Full Stack Web Developer
 ------------------------
 
 * ⚜️  I'm based in New Orleans, Louisiana 
-* 🖥️  See my portfolio at [Trey Rader](http://treyrader.com/)
-* ✉️  You can contact me at [treyrdr09@gmai.com](mailto:treyrdr09@gmai.com)
-* 🧠  I'm currently learning NextJS 14 && Figma UX/UI Design
+* 🖥️  See my portfolio at [Trey Rader](https://treyrader.dev/)
+* ✉️  You can contact me at [treyrdr09@gmail.com](mailto:treyrdr09@gmail.com)
+* 🧠  I'm currently learning React Native && Figma UX/UI Design
 * 🤝  Would love to collaborate!
 
-Eperienced web developer, passionate about education and culture. Founded Vouzot, a platform dedicated to preserving Louisiana's rich heritage through authentic presentations, cooking recipes, and music. Open to new tech opportunities and collaborations. Check out my website for more details and latest projects. Nice to meet you!
+I am an ambitious product engineer, avid pianist, educator and cultural enthusiast. I am the founder of [Vouzot Inc](https://vouzot.vercel.app/) Vouzot Inc, a platform dedicated to preserving Louisiana's rich heritage through video presentations and tutorials, topics of food, french, and music. I am always interested in exploring new tech opportunities and collaborations. Please don't hesitate to visit my website for more details and latest projects. Cheers!
  
 ### Links
-<b>Vouzot</b>: \[https://vouzot.com\] 
+<b>Vouzot</b>: \[https://vouzot.vercel.app\] 
 
 ### Skills
 
