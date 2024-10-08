@@ -11,9 +11,6 @@ Full Stack Web Developer
 * 🤝  Would love to collaborate!
 
 I am an ambitious product engineer, avid pianist, educator and cultural enthusiast. I am the founder of [Vouzot Inc](https://vouzot.vercel.app/) Vouzot Inc, a platform dedicated to preserving Louisiana's rich heritage through video presentations and tutorials, topics of food, french, and music. I am always interested in exploring new tech opportunities and collaborations. Please don't hesitate to visit my website for more details and latest projects. Cheers!
- 
-### Links
-<b>Vouzot</b>: \[https://vouzot.vercel.app\] 
 
 ### Skills
 
