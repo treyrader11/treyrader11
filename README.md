@@ -1,7 +1,7 @@
 Hi, I'm Trey Rader
 ==============================
 
-Full Stack Web Developer
+Full Stack Web & Mobile Developer
 ------------------------
 
 * ⚜️  I'm based in New Orleans, Louisiana 
