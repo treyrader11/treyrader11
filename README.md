@@ -1,4 +1,4 @@
-Hi 👋 My name is Trey Rader
+Hi, I'm Trey Rader
 ==============================
 
 Full Stack Web Developer
